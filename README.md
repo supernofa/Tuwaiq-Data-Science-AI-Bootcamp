@@ -16,7 +16,16 @@ This repository documents my learning journey at Tuwaiq Academy, including hands
 Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Scikit-learn
 
 ## Repository Contents
-Each folder contains exercises, assignments, or projects related to a specific topic.
+Each unit folder contains exercises, assignments, or projects related to a specific topic.
+
+## Collaborative Projects
+
+### Olympic History Analysis
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Collaborated on an exploratory analysis of 120 years of Olympic Games data, examining athlete participation, medal distributions, and historical trends through data analysis and visualization.
+
+[View Project on GitHub](https://github.com/Raghad5MH/olympic-analysis)
 
 ## About
 This repository reflects my practical learning experience and continuous development in Data Science and Artificial Intelligence.
