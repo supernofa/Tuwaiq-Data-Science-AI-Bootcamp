@@ -34,7 +34,7 @@ View Project on GitHub
 
 ### Olympic History Analysis
 
-Unit 3 - Exploratory Data Analysis (EDA)
+Unit 3 - Exploratory Data Analysis (EDA) | Pair Challenge
 
 Collaborated on an exploratory analysis of 120 years of Olympic Games data, examining athlete participation, medal distributions, and historical trends through data analysis and visualization.
 
