@@ -30,7 +30,7 @@ My Contribution: Developed and customized the application's user interface using
 
 **Technologies:** Python, Streamlit, CSS, Whisper, Gemini, DeepL.
 
-View Project on GitHub
+[View Project on GitHub](https://github.com/HassanAlsuwaiq/Python-unit-project)
 
 ### Olympic History Analysis
 
