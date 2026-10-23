@@ -19,11 +19,26 @@ Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Scikit-learn
 Each unit folder contains exercises, assignments, or projects related to a specific topic.
 
 ## Collaborative Projects
+## Hayyak (حيّاك) | AI-Powered Saudi Dialect Translator
+
+Unit 1 – Python Programming | Collaborative Project
+
+An AI-powered voice translation application designed to help international visitors understand Saudi Arabic expressions through speech recognition, translation, and text-to-speech technologies.
+
+My Contribution: Developed and customized the application's user interface using Streamlit and CSS, focusing on layout, usability, and visual presentation.
+
+**Technologies:** Python, Streamlit, CSS, Whisper, Gemini, DeepL.
+
+View Project on GitHub
 
 ### Olympic History Analysis
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Unit 3 - Exploratory Data Analysis (EDA)
 
 Collaborated on an exploratory analysis of 120 years of Olympic Games data, examining athlete participation, medal distributions, and historical trends through data analysis and visualization.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
 
 [View Project on GitHub](https://github.com/Raghad5MH/olympic-analysis)
 
