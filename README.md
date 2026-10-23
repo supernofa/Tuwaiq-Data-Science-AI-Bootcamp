@@ -19,7 +19,8 @@ Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Scikit-learn
 Each unit folder contains exercises, assignments, or projects related to a specific topic.
 
 ## Collaborative Projects
-## Hayyak (حيّاك) | AI-Powered Saudi Dialect Translator
+
+### Hayyak (حيّاك) | AI-Powered Saudi Dialect Translator
 
 Unit 1 – Python Programming | Collaborative Project
 
