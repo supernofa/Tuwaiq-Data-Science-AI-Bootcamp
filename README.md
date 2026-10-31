@@ -43,5 +43,18 @@ Collaborated on an exploratory analysis of 120 years of Olympic Games data, exam
 
 [View Project on GitHub](https://github.com/Raghad5MH/olympic-analysis)
 
+
+## Individual Projects
+
+### Student Performance EDA & Dashboard
+
+Unit 3 – Exploratory Data Analysis (EDA) | Individual Project
+
+Explored how academic, lifestyle, and background factors relate to students’ final Portuguese grades using the UCI Student Performance dataset. Developed an interactive Streamlit dashboard to explore patterns through filters, visualizations, and key findings.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly Express, Streamlit, Jupyter Notebook
+
+[View Project on GitHub](https://github.com/supernofa/student-performance-eda-dashboard)
+
 ## About
 This repository reflects my practical learning experience and continuous development in Data Science and Artificial Intelligence.
