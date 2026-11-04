@@ -6,11 +6,15 @@ This repository documents my learning journey at Tuwaiq Academy, including hands
 
 ## Topics Covered
 - Python Programming & Object-Oriented Programming
-- Mathematics & Statistics for Data Science
+- Linear Algebra & Statistics for Data Science
 - Data Analysis with NumPy and Pandas
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Machine Learning
+- Exploratory Data Analysis & Data Visualization
+- Data Preprocessing & Feature Engineering
+- Supervised Learning: Regression & Classification
+- Unsupervised Learning: K-Means, Hierarchical Clustering & DBSCAN
+- Dimensionality Reduction: PCA & t-SNE
+- Model Evaluation, Cross-Validation & Hyperparameter Tuning
+- Machine Learning Pipelines & Ensemble Methods
 
 ## Tools & Technologies
 Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Scikit-learn
