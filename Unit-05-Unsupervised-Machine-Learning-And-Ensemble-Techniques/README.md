@@ -8,3 +8,5 @@ Practical exercises covering:
 - Dimensionality reduction with PCA and t-SNE
 - Scikit-learn pipelines, cross-validation, and GridSearchCV
 - Ensemble methods: Random Forest, Gradient Boosting, and Voting
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
