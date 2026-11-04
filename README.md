@@ -17,10 +17,20 @@ This repository documents my learning journey at Tuwaiq Academy, including hands
 - Machine Learning Pipelines & Ensemble Methods
 
 ## Tools & Technologies
-Python | Jupyter Notebook | Pandas | NumPy | Matplotlib | Scikit-learn
+Python | Jupyter Notebook | NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | Streamlit | Plotly
 
 ## Repository Contents
-Each unit folder contains exercises, assignments, or projects related to a specific topic.
+
+| Unit | Focus |
+|------|-------|
+| 01 | Python Fundamentals |
+| 02 | Linear Algebra & Statistics |
+| 03 | Exploratory Data Analysis |
+| 04 | Supervised Machine Learning |
+| 05 | Unsupervised Machine Learning & Ensemble Techniques |
+
+Each unit folder contains practical notebooks and exercises.
+Individual and collaborative projects are linked below.
 
 ## Collaborative Projects
 
