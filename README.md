@@ -44,6 +44,26 @@ Collaborated on an exploratory analysis of 120 years of Olympic Games data, exam
 [View Project on GitHub](https://github.com/Raghad5MH/olympic-analysis)
 
 
+### Heart Disease Prediction with SVM
+
+Supervised Machine Learning | Collaborative Mini-Project
+
+Collaborated on a classification project using Support Vector Machines to predict heart disease. The project includes exploratory data analysis, preprocessing, feature scaling, hyperparameter tuning, and model evaluation, with a focus on recall to reduce missed positive cases.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+[View Project on GitHub](https://github.com/nnnoufff/SVM-Heart-Disease-Prediction)
+
+### Medical Insurance Expenses Prediction with SVR
+
+Supervised Machine Learning | Collaborative Mini-Project
+
+Collaborated on a regression project using Support Vector Regression to predict medical insurance expenses. The project includes exploratory data analysis, preprocessing, feature engineering, hyperparameter tuning, and comparison with a Linear Regression baseline using MAE and R².
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
+[View Project on GitHub](https://github.com/nnnoufff/Predicting-Medical-Insurance-Expenses)
+
 ## Individual Projects
 
 ### Student Performance EDA & Dashboard
